@@ -1,5 +1,5 @@
 
-n_slices = 100
+n_slices = 1000
 slices_coord = [0.0]*n_slices
 slices = [0]*n_slices
 sq_slices = [0]*(n_slices-1) 
